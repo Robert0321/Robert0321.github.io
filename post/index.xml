@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Offer蛙</title>
+    <link>https://Robert0321.github.io/post/</link>
+    <description>Recent content in Posts on Offer蛙</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <managingEditor>shat0806449@gmail.com (Robert Lee)</managingEditor>
+    <webMaster>shat0806449@gmail.com (Robert Lee)</webMaster>
+    <lastBuildDate>Thu, 23 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://Robert0321.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>其他</title>
+      <link>https://Robert0321.github.io/post/3/</link>
+      <pubDate>Thu, 23 Nov 2023 00:00:00 +0000</pubDate><author>shat0806449@gmail.com (Robert Lee)</author>
+      <guid>https://Robert0321.github.io/post/3/</guid>
+      <description>Beautiful Hugo adds a few custom shortcodes created by Li-Wen Yip and Gert-Jan van den Berg for making galleries with PhotoSwipe .&#xA;Sphere&#xA;Triangle&#xA;For full details please see the hugo-easy-gallery GitHub page. Basic usages from above are: te a gallery with open and close tags {{&amp;lt; gallery &amp;gt;}} and {{&amp;lt; /gallery &amp;gt;}} {{&amp;lt; figure src=&amp;ldquo;image.jpg&amp;rdquo; &amp;gt;}} will use image.jpg for thumbnail and lightbox {{&amp;lt; figure src=&amp;ldquo;thumb.jpg&amp;rdquo; link=&amp;ldquo;image.jpg&amp;rdquo; &amp;gt;}} will use thumb.</description>
+    </item>
+    <item>
+      <title>新加坡DHL面試分享</title>
+      <link>https://Robert0321.github.io/post/1/</link>
+      <pubDate>Thu, 23 Nov 2023 00:00:00 +0000</pubDate><author>shat0806449@gmail.com (Robert Lee)</author>
+      <guid>https://Robert0321.github.io/post/1/</guid>
+      <description>Beautiful Hugo adds a few custom shortcodes created by Li-Wen Yip and Gert-Jan van den Berg for making galleries with PhotoSwipe .&#xA;Sphere&#xA;Triangle&#xA;For full details please see the hugo-easy-gallery GitHub page. Basic usages from above are: te a gallery with open and close tags {{&amp;lt; gallery &amp;gt;}} and {{&amp;lt; /gallery &amp;gt;}} {{&amp;lt; figure src=&amp;ldquo;image.jpg&amp;rdquo; &amp;gt;}} will use image.jpg for thumbnail and lightbox {{&amp;lt; figure src=&amp;ldquo;thumb.jpg&amp;rdquo; link=&amp;ldquo;image.jpg&amp;rdquo; &amp;gt;}} will use thumb.</description>
+    </item>
+    <item>
+      <title>新加坡Pfizer面試分享</title>
+      <link>https://Robert0321.github.io/post/2/</link>
+      <pubDate>Thu, 23 Nov 2023 00:00:00 +0000</pubDate><author>shat0806449@gmail.com (Robert Lee)</author>
+      <guid>https://Robert0321.github.io/post/2/</guid>
+      <description>Beautiful Hugo adds a few custom shortcodes created by Li-Wen Yip and Gert-Jan van den Berg for making galleries with PhotoSwipe .&#xA;Sphere&#xA;Triangle&#xA;For full details please see the hugo-easy-gallery GitHub page. Basic usages from above are: te a gallery with open and close tags {{&amp;lt; gallery &amp;gt;}} and {{&amp;lt; /gallery &amp;gt;}} {{&amp;lt; figure src=&amp;ldquo;image.jpg&amp;rdquo; &amp;gt;}} will use image.jpg for thumbnail and lightbox {{&amp;lt; figure src=&amp;ldquo;thumb.jpg&amp;rdquo; link=&amp;ldquo;image.jpg&amp;rdquo; &amp;gt;}} will use thumb.</description>
+    </item>
+  </channel>
+</rss>
